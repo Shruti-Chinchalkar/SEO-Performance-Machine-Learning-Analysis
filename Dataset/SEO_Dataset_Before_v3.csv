@@ -1,0 +1,151 @@
+URL,Size_KB,Status Code,Indexability_Num,Crawl Depth,Folder Depth,Inlinks,Unique Inlinks,Outlinks,Response Time,Word Count,FCP,CLS,LCP Score,TBT_Milliseconds,Speed Index,Performance_Score,SEO_Health_Score,SEO Status,Performance Flag,Heavy Page Flag,Performance Category,Indexability Clean,LCP Category,Slow Page Flag,SEO Issue Status
+https://wooferzz.com/,166.67,200,1,0,0,185,46,39,0.5,454,2.3,0.0,7,0,6.0,68,90,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/blogs/news,79.07,200,1,0,1,94,46,27,0.3,137,2.2,0.0,5,0,4.1,77,80,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/blogs/news/wooferzz-healthy-treats-for-dogs-hope-for-strays,89.56,200,1,0,2,3,2,26,0.4,443,2.1,0.0,5,10,4.0,78,75,Average,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/collections/biscuits,221.08,200,1,0,1,102,46,64,0.7,569,2.3,0.0,6,20,5.7,71,95,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/collections/bowl,187.74,200,1,0,1,102,46,58,0.3,454,1.1,0.0,2,100,2.2,98,90,Good,Fast (?3s),Light Page,Good,1,Good,Good,Good
+https://wooferzz.com/collections/munchies,138.22,200,1,0,1,102,46,42,0.5,256,2.1,0.0,5,30,4.3,77,80,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/pages/contact-us,77.14,200,1,0,1,93,46,25,0.3,175,2.1,0.0,5,40,3.7,79,80,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/pages/our-story,79.05,200,1,0,1,93,46,25,0.5,426,1.1,0.0,2,40,1.8,98,90,Good,Fast (?3s),Light Page,Good,1,Good,Good,Good
+https://wooferzz.com/pages/subscription,89.67,200,1,0,1,93,46,25,0.3,237,2.2,0.0,5,20,5.1,75,80,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/buy-4-get-1-free-1,140.95,200,1,0,1,50,46,38,0.4,556,1.7,0.0,4,40,2.7,88,95,Good,Fast (?3s),Light Page,Average,1,Good,Average,Good
+https://wooferzz.com/products/buy-4-get-1-free-400grams,177.65,200,1,0,1,4,1,38,0.3,557,1.9,0.0,6,20,3.4,76,80,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/buy-4-get-1-free-700grams,177.68,200,1,0,1,50,46,38,0.5,557,2.9,0.0,7,100,5.7,66,95,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/calcium-sticks,146.85,200,1,0,1,80,38,38,0.4,370,2.9,0.0,8,70,5.7,66,90,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/chicken-munchies-1,153.97,200,1,0,1,80,38,38,0.4,380,2.7,0.0,8,20,6.1,66,90,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/mint-munchies-1,156.84,200,1,0,1,80,38,38,0.6,393,2.8,0.0,8,20,6.2,66,90,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/mutton-munchies-1,153.66,200,1,0,1,80,38,38,0.5,397,2.7,0.0,7,10,5.8,67,90,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pawperz-chicken-biscuits,188.21,200,1,0,1,6,2,38,0.4,486,2.9,0.0,8,60,5.9,66,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pawperz-chicken-biscuts,157.82,200,1,0,1,6,2,38,0.5,451,2.9,0.0,8,90,5.7,66,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pawperz-chicken-biscuts-700gm,157.72,200,1,0,1,6,2,38,0.4,451,1.7,0.0,4,0,3.0,85,85,Good,Fast (?3s),Light Page,Average,1,Good,Slow,Good
+https://wooferzz.com/products/pawperz-egg-biscuits,157.21,200,1,0,1,6,2,38,0.6,388,2.8,0.0,7,190,5.7,64,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/pawperz-egg-biscuits-1,187.47,200,1,0,1,6,2,38,0.5,423,2.9,0.0,8,80,5.9,66,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pawperz-egg-biscuits-700gm,157.11,200,1,0,1,6,2,38,0.4,388,2.7,0.0,6,10,4.8,70,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/pawperz-milk-biscuits,157.43,200,1,0,1,6,2,38,0.5,417,2.7,0.0,8,140,6.0,65,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pawperz-milk-biscuits-1,187.92,200,1,0,1,6,2,38,0.3,452,1.7,0.002,7,20,2.9,76,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/pawperz-milk-biscuits-250-mg,152.15,200,1,0,1,6,2,38,0.4,411,2.2,0.0,5,80,2.8,82,85,Good,Fast (?3s),Light Page,Average,1,Good,Slow,Good
+https://wooferzz.com/products/pawperz-milk-biscuits-700gm,157.33,200,1,0,1,6,2,38,0.4,417,2.8,0.0,8,90,6.1,65,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pawperz-spinach-bicuits,158.32,200,1,0,1,6,2,38,0.7,411,1.7,0.0,5,0,3.0,83,85,Good,Fast (?3s),Light Page,Average,1,Good,Slow,Good
+https://wooferzz.com/products/pawperz-spinach-bicuits-700gm,157.37,200,1,0,1,6,2,38,0.6,411,2.9,0.0,8,50,6.1,66,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pawperz-spinach-biscuits,186.03,200,1,0,1,6,2,38,0.5,442,1.7,0.0,4,20,3.0,89,85,Good,Fast (?3s),Light Page,Average,1,Good,Average,Good
+https://wooferzz.com/products/pawperzz-chicken-biscuits,158.83,200,1,0,1,6,2,38,0.5,451,2.7,0.0,6,10,4.5,71,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/pawperzz-egg-biscuits-250g,158.22,200,1,0,1,6,2,38,0.5,394,2.7,0.0,7,10,5.7,67,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pawperzz-spinach-biscuits,156.64,200,1,0,1,6,2,38,0.7,411,2.7,0.0,7,80,5.9,66,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/premium-bowls,148.16,200,1,0,1,6,2,38,0.6,315,2.7,0.0,6,20,4.4,72,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/premium-bowls-1,146.29,200,1,0,1,6,2,38,0.9,315,2.7,0.0,6,20,4.8,70,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/premium-bowls-2,146.29,200,1,0,1,6,2,38,0.6,315,2.7,0.0,7,10,4.5,70,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/premium-bowls-3,146.29,200,1,0,1,6,2,38,0.4,315,2.9,0.0,7,20,5.9,67,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/premium-bowls-4,152.25,200,1,0,1,6,2,38,0.6,321,2.7,0.0,7,90,5.8,67,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/slow-feeding-bowl,148.27,200,1,0,1,6,2,38,0.7,319,2.7,0.0,6,40,4.5,71,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/slow-feeding-bowl-1,148.31,200,1,0,1,6,2,38,0.5,319,1.6,0.0,4,30,2.9,85,85,Good,Fast (?3s),Light Page,Average,1,Good,Slow,Good
+https://wooferzz.com/products/slow-feeding-bowl-2,148.31,200,1,0,1,6,2,38,0.6,319,2.7,0.0,7,80,5.8,67,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/spinach-munchies-1,155.57,200,1,0,1,80,38,38,0.8,382,3.0,0.0,7,70,5.8,66,90,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/stainless-premium-bowls,138.44,200,1,0,1,6,2,38,1.3,312,2.9,0.0,7,30,6.1,66,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/stainless-premium-bowls-1,138.47,200,1,0,1,6,2,38,1.4,312,2.9,0.0,7,20,6.1,66,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/stainless-premium-bowls-2,138.47,200,1,0,1,6,2,38,0.9,312,2.9,0.0,7,140,5.8,65,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/stainless-premium-bowls-3,138.47,200,1,0,1,6,2,38,0.7,312,1.7,0.0,6,20,2.9,77,85,Good,Fast (?3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/water-bowls,158.91,200,1,0,1,6,2,38,1.1,337,2.7,0.0,8,0,6.0,67,85,Good,Fast (?3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/chicken-jerky-treats,192.05,200,1,1,1,4,3,31,0.65,451,1.8,0.0,4,30,5.2,68,75,Good,Slow,Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/mutton-crunchies,134.44,200,1,1,1,3,3,27,0.49,312,1.8,0.0,4,0,4.1,60,80,Good,Fast (≤3s),Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/peanut-butter-cookies-for-dogs,94.71,200,1,1,1,6,1,31,0.75,466,2.2,0.0,7,50,3.9,73,80,Good,Slow,Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/calcium-milk-bones,235.77,200,1,1,1,3,2,26,0.93,499,2.2,0.0,5,20,4.4,66,70,Good,Slow,Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/turmeric-immunity-bites,123.97,200,1,1,1,3,2,34,0.75,378,2.0,0.0,4,80,6.3,63,85,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/sweet-potato-chews,162.84,200,1,2,1,9,3,41,0.65,407,3.2,0.0,7,0,3.6,70,85,Good,Slow,Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/salmon-oil-skin-coat,175.84,200,1,2,1,4,1,34,0.94,333,1.9,0.0,8,40,4.1,65,80,Good,Slow,Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/wagging-tail-cupcakes,146.34,200,1,2,1,8,1,34,0.45,349,2.6,0.0,6,0,4.0,81,75,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/birthday-bark-cake,188.57,200,1,1,1,8,1,39,0.64,373,2.8,0.0,6,30,5.2,63,70,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/organic-hemp-anxiety-treats,171.84,200,1,1,1,8,2,27,0.92,494,2.3,0.0,4,10,4.1,66,85,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/dental-care-chew-sticks,202.63,200,1,1,1,5,1,28,0.81,419,1.9,0.0,4,0,5.0,78,90,Good,Slow,Heavy Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/grain-free-puppy-kibble,215.54,200,1,1,1,7,1,30,0.88,362,3.0,0.0,8,10,4.7,79,75,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/adult-dog-premium-meal,236.69,200,1,2,1,3,2,39,0.71,328,2.3,0.0,8,20,6.3,65,80,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/dehydrated-anchovy-bites,213.38,200,1,1,1,7,3,25,0.92,397,2.8,0.0,4,10,3.7,79,80,Good,Slow,Heavy Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/liver-freeze-dried-treats,157.58,200,1,2,1,9,3,26,0.47,461,3.1,0.0,8,30,4.2,74,75,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/pork-twister-sticks,226.57,200,1,2,1,3,1,26,0.56,285,2.5,0.0,4,40,5.9,70,70,Good,Fast (≤3s),Heavy Page,Average,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/duck-breast-strips,209.91,200,1,1,1,3,3,39,0.75,326,1.9,0.0,6,80,4.6,60,85,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/vegan-apple-cinnamon-biscuits,141.44,200,1,1,1,3,3,34,0.66,448,2.3,0.0,4,40,4.9,72,75,Good,Slow,Light Page,Average,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/pumpkin-digestive-biscuits,173.51,200,1,2,1,3,1,36,0.71,326,2.2,0.0,7,40,4.1,67,80,Good,Slow,Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/carrot-delight-cookies,234.75,200,1,2,1,7,3,33,0.47,293,2.8,0.0,4,10,4.0,61,85,Good,Fast (≤3s),Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/banana-oats-training-treats,184.16,200,1,1,1,8,1,25,0.58,434,2.0,0.0,8,0,5.1,79,85,Good,Fast (≤3s),Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/gourmet-mutt-muffins,226.27,200,1,1,1,3,3,32,0.72,339,2.4,0.0,5,50,5.3,80,75,Good,Slow,Heavy Page,Average,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/grain-free-lamb-recipe,210.43,200,1,1,1,4,3,41,0.4,407,2.3,0.0,7,0,6.1,80,75,Good,Fast (≤3s),Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/wet-food-chicken-gravy,215.48,200,1,2,1,8,2,28,0.72,408,2.2,0.0,6,80,5.1,71,70,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/premium-orthopedic-dog-bed,120.75,200,1,1,1,6,1,26,0.56,408,3.1,0.0,5,80,5.7,78,90,Good,Fast (≤3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/anti-anxiety-calming-bed,110.9,200,1,2,1,4,1,34,0.86,379,3.2,0.0,5,40,4.0,65,80,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/waterproof-car-seat-cover,133.3,200,1,2,1,3,2,28,0.6,427,2.8,0.0,6,50,4.9,74,90,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Warning
+https://wooferzz.com/products/ergonomic-dog-harness,103.01,200,1,2,1,3,3,33,0.93,388,2.9,0.0,8,0,5.5,75,70,Good,Slow,Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/reflective-heavy-duty-leash,140.98,200,1,1,1,7,2,36,0.8,405,1.9,0.0,4,30,5.9,67,75,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/retractable-walking-leash,154.17,200,1,2,1,8,3,38,0.61,367,2.8,0.0,7,20,6.3,77,80,Good,Slow,Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/personalized-dog-collar,167.29,200,1,1,1,6,2,29,0.67,377,3.2,0.0,6,20,4.2,64,70,Good,Slow,Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/stainless-steel-double-bowl,142.17,200,1,1,1,5,3,40,0.77,448,2.6,0.0,8,0,6.1,77,85,Good,Slow,Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/ceramic-elevated-cat-dog-bowl,109.27,200,1,1,1,8,2,28,0.56,498,1.8,0.0,4,10,4.5,73,90,Good,Fast (≤3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/interactive-puzzle-toy,218.13,200,1,2,1,5,3,27,0.69,360,3.0,0.0,6,30,6.0,77,85,Good,Slow,Heavy Page,Average,1,Poor,Slow,Warning
+https://wooferzz.com/products/indestructible-rubber-chew-toy,209.52,200,1,2,1,6,1,30,0.56,455,3.1,0.0,5,20,4.1,70,70,Good,Fast (≤3s),Heavy Page,Average,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/plush-squeaky-duck-toy,100.86,200,1,2,1,9,2,38,0.69,401,3.0,0.0,4,40,3.7,68,75,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/cooling-mat-for-summer,122.88,200,1,2,1,8,2,29,0.94,375,2.3,0.0,8,80,4.8,60,85,Good,Slow,Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/dog-shampoo-oatmeal-aloe,121.6,200,1,2,1,8,2,26,0.74,398,2.7,0.0,4,20,5.8,68,75,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/tick-and-flea-repellent-spray,115.06,200,1,2,1,6,3,39,0.49,413,1.9,0.0,8,80,5.5,70,70,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/paw-balm-for-cracked-paws,111.53,200,1,1,1,8,3,26,0.92,472,2.8,0.0,5,40,3.8,74,90,Good,Slow,Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/dog-slicker-brush-grooming,133.3,200,1,1,1,9,3,37,0.46,354,2.7,0.0,7,50,4.8,79,90,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/microfiber-fast-drying-towel,106.34,200,1,2,1,5,3,37,0.48,300,2.5,0.0,7,30,5.3,76,75,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/biodegradable-poop-bags,196.36,200,1,2,1,7,2,39,0.46,402,2.6,0.0,5,30,4.8,61,70,Good,Fast (≤3s),Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/portable-water-bottle-travel,122.51,200,1,2,1,7,1,26,0.45,343,1.8,0.0,6,30,4.1,74,70,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/snuffle-mat-mental-stimulation,214.78,200,1,1,1,4,3,30,0.77,409,1.9,0.0,8,50,5.3,74,85,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/dog-raincoat-waterproof,103.94,200,1,1,1,8,1,37,0.54,345,2.9,0.0,4,40,6.0,77,75,Good,Fast (≤3s),Light Page,Average,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/winter-fleece-jacket-dogs,116.03,200,1,1,1,8,1,28,0.78,374,2.3,0.0,7,10,5.4,78,70,Good,Slow,Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/rope-tug-of-war-toy,239.23,200,1,2,1,8,2,31,0.43,359,2.8,0.0,4,80,4.2,63,70,Good,Fast (≤3s),Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/dental-water-additive,170.3,200,1,2,1,6,1,27,0.52,467,1.8,0.0,5,40,6.4,77,90,Good,Fast (≤3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/multivitamin-chews-senior-dogs,185.5,200,1,2,1,7,1,35,0.74,408,1.9,0.0,8,20,3.8,81,90,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/glucosamine-joint-supplements,182.25,200,1,2,1,6,3,32,0.83,281,2.7,0.0,5,80,3.6,81,90,Good,Slow,Heavy Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/coconut-oil-for-pets,236.76,200,1,2,1,6,1,37,0.81,489,2.6,0.0,7,20,4.5,76,70,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/gourmet-turkey-jerky,221.97,200,1,2,1,7,1,28,0.76,365,2.2,0.0,8,50,5.3,64,70,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/beef-hide-free-rolls,117.2,200,1,1,1,6,2,26,0.61,437,2.4,0.0,7,40,5.4,61,75,Good,Slow,Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/rabbit-ears-natural-chews,215.97,200,1,1,1,5,1,37,0.61,477,2.6,0.0,8,0,5.2,81,80,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/yak-milk-dog-chew-bars,129.26,200,1,1,1,7,3,35,0.54,464,3.1,0.0,5,50,4.8,78,85,Good,Fast (≤3s),Light Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/cheese-flavored-popcorn-dogs,235.1,200,1,1,1,7,1,26,0.5,307,1.8,0.0,8,30,4.8,61,70,Good,Fast (≤3s),Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/strawberry-yogurt-drops,203.76,200,1,1,1,3,2,41,0.81,470,1.8,0.0,8,80,6.1,79,80,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/blueberry-antioxidant-treats,114.91,200,1,1,1,9,1,40,0.74,386,2.3,0.0,6,10,4.0,71,85,Good,Slow,Light Page,Average,1,Poor,Slow,Warning
+https://wooferzz.com/products/cricket-protein-eco-bites,146.85,200,1,2,1,3,3,26,0.94,454,2.3,0.0,4,30,6.3,62,85,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/cod-skin-knots,115.07,200,1,1,1,3,1,38,0.76,421,3.2,0.0,6,30,6.1,64,90,Good,Slow,Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/venison-jerky-strips,203.09,200,1,1,1,6,2,30,0.84,460,1.8,0.0,4,20,5.4,71,80,Good,Slow,Heavy Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/air-dried-beef-lung,107.24,200,1,2,1,7,3,39,0.45,447,3.1,0.0,7,20,6.0,79,70,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/chicken-gizzard-crunch,160.87,200,1,1,1,8,3,40,0.43,363,2.0,0.0,7,10,6.4,67,70,Good,Fast (≤3s),Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/duck-feet-natural-sources,134.51,200,1,1,1,9,1,39,0.8,363,3.1,0.0,8,0,5.4,61,90,Good,Slow,Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/pork-rinds-puffed,185.68,200,1,1,1,5,1,37,0.81,486,2.5,0.0,6,50,3.9,60,85,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/cbd-infused-calming-drops,115.03,200,1,2,1,4,3,35,0.64,498,2.0,0.0,4,0,6.3,67,75,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/probiotic-powder-gut-health,239.23,200,1,1,1,7,1,41,0.7,420,1.9,0.0,6,80,4.0,60,85,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/omega-3-krill-oil,149.27,200,1,2,1,5,2,37,0.42,326,2.5,0.0,7,50,4.2,81,90,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/collagen-sticks-long-lasting,156.52,200,1,1,1,3,1,41,0.73,375,2.6,0.0,8,20,4.1,62,85,Good,Slow,Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/heavy-chewer-wishbone,201.07,200,1,1,1,4,3,32,0.48,302,2.9,0.0,8,30,5.5,76,85,Good,Fast (≤3s),Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/floating-water-toy-fetch,133.88,200,1,2,1,7,1,41,0.48,462,2.2,0.0,8,80,4.9,64,70,Good,Fast (≤3s),Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/automatic-ball-launcher,197.26,200,1,2,1,5,1,25,0.73,386,3.1,0.0,5,0,4.5,80,90,Good,Slow,Heavy Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/cooling-vest-harness,186.62,200,1,2,1,3,3,33,0.43,292,2.3,0.0,7,0,4.9,62,80,Good,Fast (≤3s),Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/tactical-dog-vest,190.03,200,1,1,1,8,2,41,0.85,379,2.9,0.0,8,30,3.8,75,90,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/led-light-up-collar,167.69,200,1,1,1,5,1,32,0.59,324,2.3,0.0,6,40,5.4,81,80,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Warning
+https://wooferzz.com/products/hands-free-running-leash,169.09,200,1,1,1,9,3,33,0.9,453,2.0,0.0,6,20,5.9,80,85,Good,Slow,Light Page,Average,1,Poor,Slow,Warning
+https://wooferzz.com/products/travel-dog-crate,188.87,200,1,1,1,3,2,30,0.46,397,2.7,0.0,7,20,6.4,72,80,Good,Fast (≤3s),Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/airline-approved-pet-carrier,207.66,200,1,1,1,5,2,29,0.61,434,2.6,0.0,6,40,4.2,67,75,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/booster-seat-puppies,221.6,200,1,1,1,8,2,37,0.94,448,1.8,0.0,6,20,5.8,65,70,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/orthopedic-memory-foam-mat,221.92,200,1,2,1,5,2,41,0.65,494,1.9,0.0,6,80,4.5,75,75,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/luxury-faux-fur-donut-bed,211.0,200,1,1,1,9,2,34,0.94,311,2.9,0.0,8,50,5.3,74,80,Good,Slow,Heavy Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/elevated-cooling-pet-cot,94.63,200,1,2,1,9,1,25,0.43,360,2.0,0.0,7,30,4.0,62,70,Good,Fast (≤3s),Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/silicone-pet-feeding-mat,219.79,200,1,2,1,9,3,40,0.49,351,2.2,0.0,5,50,5.5,77,80,Good,Fast (≤3s),Heavy Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/slow-feeder-insert-suction,105.21,200,1,2,1,3,2,30,0.55,337,2.2,0.0,5,0,6.4,61,90,Good,Fast (≤3s),Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/whisker-friendly-shallow-bowl,130.11,200,1,1,1,6,3,26,0.41,436,3.2,0.0,6,10,4.9,74,70,Good,Fast (≤3s),Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/smart-automatic-pet-feeder,189.75,200,1,2,1,9,3,28,0.67,372,2.8,0.0,5,20,6.2,61,70,Good,Slow,Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/dog-water-fountain-filtered,213.45,200,1,2,1,5,2,34,0.91,488,2.6,0.0,6,10,5.0,65,80,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/pet-hair-remover-roller,204.67,200,1,1,1,4,1,31,0.63,474,2.7,0.0,4,50,4.0,63,90,Good,Slow,Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/nail-grinder-painless-electric,218.82,200,1,1,1,7,3,37,0.77,439,3.0,0.0,6,50,4.8,73,90,Good,Slow,Heavy Page,Average,1,Poor,Slow,Warning
+https://wooferzz.com/products/ear-cleaner-solution-dogs,152.21,200,1,2,1,4,3,37,0.81,408,3.0,0.0,6,10,4.7,76,90,Good,Slow,Light Page,Average,1,Poor,Slow,Warning
+https://wooferzz.com/products/tear-stain-remover-wipes,216.5,200,1,1,1,7,3,27,0.67,418,2.3,0.0,4,80,4.9,64,75,Good,Slow,Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/calming-hemp-shampoo,142.49,200,1,2,1,7,3,40,0.91,432,2.3,0.0,5,50,6.0,68,85,Good,Slow,Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/puppy-potty-training-spray,226.18,200,1,1,1,4,2,41,0.68,407,2.1,0.0,4,10,5.6,68,75,Good,Slow,Heavy Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/washable-pee-pads-reusable,173.6,200,1,1,1,7,2,26,0.42,287,2.7,0.0,4,50,6.2,67,90,Good,Fast (≤3s),Light Page,Poor,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/dog-training-clicker-pouch,152.22,200,1,2,1,7,3,40,0.62,490,2.3,0.0,7,40,5.4,76,75,Good,Slow,Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/agility-hurdle-cone-set,193.63,200,1,1,1,9,2,39,0.78,488,2.7,0.0,5,50,4.0,73,85,Good,Slow,Heavy Page,Average,1,Needs Improvement,Slow,Warning
+https://wooferzz.com/products/dog-sleeping-bag-camping,193.6,200,1,1,1,5,1,34,0.73,488,2.5,0.0,6,80,5.6,68,70,Good,Slow,Heavy Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/life-jacket-safety-swimwear,114.9,200,1,2,1,9,1,28,0.46,404,1.8,0.0,6,50,5.4,64,85,Good,Fast (≤3s),Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/dog-socks-anti-slip-bottom,152.79,200,1,1,1,9,3,31,0.65,292,2.8,0.0,5,20,6.5,74,75,Good,Slow,Light Page,Average,1,Needs Improvement,Slow,Critical
+https://wooferzz.com/products/christmas-santa-dog-sweater,150.42,200,1,1,1,8,3,27,0.93,487,3.1,0.0,8,20,3.9,72,85,Good,Slow,Light Page,Average,1,Poor,Slow,Critical
+https://wooferzz.com/products/halloween-pumpkin-costume,228.11,200,1,1,1,6,1,40,0.42,398,2.2,0.0,6,10,5.9,72,90,Good,Fast (≤3s),Heavy Page,Average,1,Poor,Slow,Warning
+https://wooferzz.com/products/birthday-boy-bandana,122.33,200,1,2,1,6,1,35,0.58,321,2.5,0.0,8,50,6.2,64,80,Good,Fast (≤3s),Light Page,Poor,1,Poor,Slow,Critical
+https://wooferzz.com/products/matching-owner-pet-pjs,191.77,200,1,1,1,6,2,37,0.57,331,3.0,0.0,8,20,5.0,67,70,Good,Fast (≤3s),Heavy Page,Poor,1,Poor,Slow,Critical
